@@ -12,7 +12,6 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,34 +284,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="541" y="177" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1601506769826" />
-    <state x="214" y="0" key="CommitChangelistDialog2" timestamp="1601585870243">
+    <state x="214" y="0" key="CommitChangelistDialog2" timestamp="1601922871217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="214" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601585870243" />
+    <state x="214" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601922871217" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601584137812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601584137812" />
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1601916654746">
+    <state width="1286" height="130" key="GridCell.Tab.0.bottom" timestamp="1601922744094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601916654746" />
-    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1601916654746">
+    <state width="1286" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601922744094" />
+    <state width="1286" height="130" key="GridCell.Tab.0.center" timestamp="1601922744094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601916654746" />
-    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1601916654746">
+    <state width="1286" height="130" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601922744094" />
+    <state width="1286" height="130" key="GridCell.Tab.0.left" timestamp="1601922744094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601916654746" />
-    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1601916654746">
+    <state width="1286" height="130" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601922744094" />
+    <state width="1286" height="130" key="GridCell.Tab.0.right" timestamp="1601922744094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601916654746" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601503992778">
+    <state width="1286" height="130" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601922744094" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601920810740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601503992778" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601920810740" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601922832583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601922832583" />
     <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1601592359624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
