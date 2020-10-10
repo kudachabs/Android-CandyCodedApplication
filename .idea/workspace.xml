@@ -9,9 +9,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Have added the code for task four please check">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -264,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601922964440</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Have added the code for task four please check">
+      <created>1602350155370</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602350155370</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,30 +299,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="541" y="177" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1601506769826" />
-    <state x="214" y="0" key="CommitChangelistDialog2" timestamp="1601922957049">
+    <state x="214" y="0" key="CommitChangelistDialog2" timestamp="1602350150399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="214" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601922957049" />
+    <state x="214" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602350150399" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601584137812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601584137812" />
-    <state width="1286" height="130" key="GridCell.Tab.0.bottom" timestamp="1602343578454">
+    <state width="1286" height="146" key="GridCell.Tab.0.bottom" timestamp="1602351073289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602343578454" />
-    <state width="1286" height="130" key="GridCell.Tab.0.center" timestamp="1602343578454">
+    <state width="1286" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602351073289" />
+    <state width="1286" height="146" key="GridCell.Tab.0.center" timestamp="1602351073273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="130" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602343578454" />
-    <state width="1286" height="130" key="GridCell.Tab.0.left" timestamp="1602343578454">
+    <state width="1286" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602351073273" />
+    <state width="1286" height="146" key="GridCell.Tab.0.left" timestamp="1602351073273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="130" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602343578454" />
-    <state width="1286" height="130" key="GridCell.Tab.0.right" timestamp="1602343578454">
+    <state width="1286" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602351073273" />
+    <state width="1286" height="146" key="GridCell.Tab.0.right" timestamp="1602351073289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="130" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602343578454" />
+    <state width="1286" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602351073289" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602272219545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -325,10 +331,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601922832583" />
-    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1601592359624">
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1602344239031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1601592359624" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1602344239031" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1601824108933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
