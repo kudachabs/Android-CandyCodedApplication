@@ -19,7 +19,7 @@ import com.squareup.picasso.Picasso;
 public class DetailActivity extends AppCompatActivity {
 
     public static final String SHARE_DESCRIPTION = "Look at this delicious candy from Candy Coded - ";
-    public static final String HASHTAG_CANDYCODED = "#candycoded";
+    public static final String HASHTAG_CANDYCODED = " #candycoded";
     String mCandyImageUrl = "";
 
     public DetailActivity() {
@@ -82,11 +82,11 @@ public class DetailActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void createShareIntent(){
+    public void createShareIntent(){
         Intent shareIntent = new Intent(Intent.ACTION_SEND);
         shareIntent.setType("text/plain");
 
         shareIntent.putExtra(Intent.EXTRA_TEXT, SHARE_DESCRIPTION + mCandyImageUrl + HASHTAG_CANDYCODED);
-        DetailActivity.this.startActivity(shareIntent);
+        startActivity(shareIntent);
     }
 }
